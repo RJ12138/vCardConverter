@@ -1,0 +1,10 @@
+BEGIN:VCARD
+EMAIL;type=INTERNET;type=pref:zounan@tsinghua.edu.cn
+FN:邹  楠
+NOTE:undefined=1\n带队老师
+TEL;type=CELL;type=VOICE;type=pref:18810068276
+GROUPING:10478624018
+CID:10478627644
+UID:10478627644
+VERSION:3.0
+END:VCARD
